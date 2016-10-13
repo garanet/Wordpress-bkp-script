@@ -1,6 +1,8 @@
 # Wordpress-bkp-script
 Wordpress Full Backup Database and files
 
+If you can handle your webserver, you can use a cronjob to do a full backup, database and files of your Wordpress website.
+
 @ Procedure
 
 ~:$ git clone https://github.com/garanet/Wordpress-bkp-script.git
